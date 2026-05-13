@@ -1,0 +1,6 @@
+acne
+eczema
+fungal
+melanoma
+psoriasis
+vitiligo
